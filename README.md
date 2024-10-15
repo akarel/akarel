@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @akarel
+# Anthony Karel (akarel)
 
-<!---
-akarel/akarel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+`4920414D205441434F204A4F484E534F4E`
+
+## Who am I?
+
+Just a normal human like you!
+_Sono umano normale come te!_
+
+LinkedIn: [in/anthonykarel](https://www.linkedin.com/in/anthonykarel/)
